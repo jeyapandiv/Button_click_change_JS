@@ -1,0 +1,26 @@
+body {
+    max-width: 1440px;
+    width: 100%;
+    padding-top: 200px;
+    text-align: center;
+    margin: auto;
+}
+.buttons {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+button {
+    width: 100px;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px;
+    font-weight: 600;
+}
+
+h1 {
+    text-shadow: 1px 1px;
+}
